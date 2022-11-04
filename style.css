@@ -1,3 +1,9 @@
+header{color: #D3D3D3;}
+header{font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif}
+header{background-color: rgb(54, 54, 54);}
+a{color: #D3D3D3;}
+a{background-color: rgb(73, 73, 73);}
+
 h1{color:#D3D3D3}
 h1{font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif}
 
@@ -10,6 +16,7 @@ body{background-color: #141414;}
 
 p{color: #D3D3D3;}
 p{font-family: 'Courier New', Courier, monospace;}
+
 
 .canon{width: 500px; 
     border: solid 5px rgb(58, 58, 58); 
